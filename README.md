@@ -1,4 +1,4 @@
-# 📘 **Differentiated Problem Solving — MODELAGEM DOS ESTADOS DE PEDIDOS DE UMA GRÁFICA**
+# **Differentiated Problem Solving — MODELAGEM DOS ESTADOS DE PEDIDOS DE UMA GRÁFICA**
 
 ## **1. Introdução**
 
@@ -409,7 +409,7 @@ O seno produz variações suaves, aleatórias e cíclicas, como cancelamentos re
 | Entregues   | Crescimento acoplado    | Quadrático               | Depende do ritmo de finalização  |
 | Cancelados  | Oscilação baixa         | Senoidal pequena         | Flutuações aleatórias            |
 
-# 🧾 **7. Conclusão**
+# 🧾 **6. Conclusão**
 
 As funções apresentadas formam um modelo matemático completo, realista e funcional para representar o fluxo de pedidos de uma gráfica.
 Elas permitem:
